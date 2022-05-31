@@ -1,10 +1,9 @@
 # project_Apeperia
 Projeto de estudo FrontEnd_raiz, usando o Figma, HTML, CSS
 
-# Aprendendo sobre Flex-Box
+* Aprendendo sobre Flex-Box
 
-# Css Responsivel
+* Css Responsivel
 
-# Layout Mobil
+* Layout Mobil
 
-* brasil *
