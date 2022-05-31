@@ -7,4 +7,4 @@ Projeto de estudo FrontEnd_raiz, usando o Figma, HTML, CSS
 
 # Layout Mobil
 
-** brasil
+* brasil *
